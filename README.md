@@ -5,7 +5,7 @@
 **Geliştiriciler, tasarımcılar ve yapay zeka meraklıları için özenle seçilmiş araçlar, Claude Code becerileri ve açık kaynak repolar.**
 
 [![Instagram](https://img.shields.io/badge/code.ozge-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code.ozge)
-![Güncelleme](https://img.shields.io/badge/Son_Güncelleme-Kasım_2026-00C853?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ozgee-i/awesome-ai-devtools?style=for-the-badge&label=Son%20Güncelleme&color=00C853)
 
 *Her hafta yeni bir bölüm ve yeni araçlar eklenmektedir. Güncellemeleri kaçırmamak için sağ üstten **Star (⭐)** vermeyi unutmayın!*
 
