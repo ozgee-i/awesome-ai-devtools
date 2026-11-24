@@ -23,7 +23,7 @@
 ## 📑 İçindekiler
 
 - 🤖 [Bölüm #01: Claude Code & Agent Güçlendiriciler](#bolum-01)
-- 🎨 [Bölüm #02: Tasarımcı Gibi Kodla (UI & Web Araçları)](#bolum-02) *(Yakında)*
+- 🎨 [Bölüm #02: Tasarımcı Gibi Kodla (UI & Web Araçları)](#bolum-02)
 - ✍️ [Bölüm #03: AI Metin İyileştirme & Token Tasarrufu](#bolum-03) *(Yakında)*
 - 🛡️ [Bölüm #04: AI Güvenlik & Kod Denetimi](#bolum-04) *(Yakında)*
 - ✨ [Bölüm #05: 3D, Video Kurgu & Görsel Efektler](#bolum-05) *(Yakında)*
@@ -57,10 +57,29 @@
 ---
 
 <a id="bolum-02"></a>
-
 ## 🎨 Bölüm #02: Tasarımcı Gibi Kodla (UI & Web Araçları)
 
-*Yakında eklenecek.*
+| Araç | Ücret | Ne işe yarar? |
+|---|---|---|
+| **[uiverse.io](https://uiverse.io)** | 🟢 | Topluluğun hazırladığı binlerce açık kaynak arayüz öğesi; HTML/CSS, Tailwind, React veya Figma olarak kopyalayıp projene ekleyebilirsin. |
+| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | 🟢 | Claude Code'a kurduğunda projene göre stil, renk paleti ve font eşleşmesi seçiyor; UX ve erişilebilirlik kurallarını gözetiyor. |
+
+**➕ Bonus**
+
+| Araç | Ücret | Ne işe yarar? |
+|---|---|---|
+| **[fontmojo.com](https://fontmojo.com)** | 🟢 | Yazı tiplerini önizleyip karşılaştırmanı sağlıyor. |
+
+**⚡ Kurulum (ui-ux-pro-max, Claude Code içinde)**
+
+```
+/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
+/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+```
+
+> 💡 Yapay zekânın varsayılan "gri kart + mor gradyan" görünümünden kurtulmak için ikisini birlikte kullanabilirsin.
+
+---
 
 <a id="bolum-03"></a>
 
